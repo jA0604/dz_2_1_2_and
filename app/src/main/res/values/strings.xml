@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">dz_2_1_2_and</string>
+    <string name="dz_name">Форма выбора адреса доставки</string>
+    <string name="str_title_countries">Страна:</string>
+    <string name="str_title_cities">Город:</string>
+    <string name="str_title_houses">Дом:</string>
+    <string name="str_btn_ok">OK</string>
+
+    <string name="name_country_r">Россия</string>
+    <string name="name_country_u">Украина</string>
+    <string name="name_country_b">Белоруссия</string>
+
+    <string-array name="sa_countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="sa_r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="sa_u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="sa_b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+</resources>
